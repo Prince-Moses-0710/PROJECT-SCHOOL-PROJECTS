@@ -1,0 +1,1 @@
+!pip install pymatgen h5py pandas numpy tqdm
