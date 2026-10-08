@@ -1,0 +1,6 @@
+{
+    "element_data": "../element_data",
+    "battery_data": "../dataset/mp_data/data_2019_12_03.csv",
+    "cif_data": "../data_2019_12_03.h5",
+    "out": "../dataset/feature"
+}

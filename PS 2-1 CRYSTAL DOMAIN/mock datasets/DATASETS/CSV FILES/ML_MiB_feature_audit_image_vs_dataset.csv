@@ -1,0 +1,43 @@
+Image_Table_I_Feature,Status,Dataset_column_or_note
+Atomic volume,Related/approximate named column,"Mean_Molar_Volume_cm3 (close/related, not exact atomic volume)"
+Atomic number,Direct named column,Mean_Atomic_Number
+Atomic weight,Direct named column,Mean_Atomic_Mass
+Covalent radius,Direct named column,Mean_Covalent_Radius_pm
+Oxidation states,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Boiling temperature,Direct named column,Mean_Boiling_Point_K
+Column number,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Row number,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+First ionization energy,Direct named column,Mean_First_Ionization_eV
+Space group number,Direct named column,Space_Group
+Density,Direct named column,Mean_Density_g_cm3
+Is Mendeleev,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+ICSD volume,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Polarizability,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+BCC energy difference,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+BCC effective lattice constant,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+BCC magnetic moment,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+BCC volume per atom difference,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+BCC volume per atom,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Heat capacity mass,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Heat capacity molar,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+GS band gap,Related/approximate named column,"Band_Gap_eV (related name, but source semantics should be verified)"
+GS volume,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+GS estimated BCC lattice constant,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+GS estimated FCC lattice constant,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+GS magnetic moment,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+GS volume per atom,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Is metal,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Is non-metal,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Is metalloid,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Is alkali,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Is d-block,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+Is f-block,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+No. of valence,Direct named column,Mean_Valence_Electrons
+No. of unfilled,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+No. of s valence,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+No. of d unfilled,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+No. of d valence,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+No. of f unfilled,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+No. of f valence,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+No. of p unfilled,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column
+No. of p valence,Not explicitly named; may be hidden in Feature_001–Feature_216,NOT explicitly present as a named column

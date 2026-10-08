@@ -1,0 +1,1 @@
+python create_features.py --element-data ../element_data --battery-data ../dataset/mp_data/data_2019_12_03.csv --cif-data ../data_2019_12_03.h5 --out ../dataset/feature
